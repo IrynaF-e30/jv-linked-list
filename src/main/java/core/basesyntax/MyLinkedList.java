@@ -158,7 +158,6 @@ public class MyLinkedList<T> implements MyLinkedListInterface<T> {
         return false;
     }
 
-
     @Override
     public int size() {
         return size;
